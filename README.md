@@ -3,7 +3,7 @@ Eris [![NPM version](https://img.shields.io/npm/v/eris.svg?style=flat-square&col
 
 A Node.js wrapper for interfacing with Discord.
 
-Installing
+Installing 
 ----------
 
 You will need NodeJS 10.4+. If you need voice support you will also need Python 2.7 and a C++ compiler. Refer to [the Getting Started section of the docs](https://abal.moe/Eris/docs) for more details.
